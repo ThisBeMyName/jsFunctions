@@ -1,5 +1,5 @@
-function name(user){
-	console.log("Hello! My name is " + user + "! How are you doing today?");
+function name(argument){
+	console.log("Hello! My name is " + argument + "! How are you doing today?");
 }
 
 function calc(number1, number2){
